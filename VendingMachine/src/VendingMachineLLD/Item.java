@@ -29,4 +29,11 @@ public class Item {
     }
 
 
+    public void setType(ItemType type) {
+        this.itemType = type;
+    }
+
+    public ItemType getType() {
+        return itemType;
+    }
 }
