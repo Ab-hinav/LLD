@@ -1,5 +1,6 @@
 package org.App.Expense;
 
+import org.App.BalanceSheetController;
 import org.App.Split.Split;
 import org.App.Split.SplitFactory;
 import org.App.Split.SplitType;
@@ -10,6 +11,7 @@ import java.util.List;
 public class ExpenseController {
 
     SplitFactory splitFactory;
+    BalanceSheetController balanceSheetController;
 
     public ExpenseController(){
         splitFactory = new SplitFactory();

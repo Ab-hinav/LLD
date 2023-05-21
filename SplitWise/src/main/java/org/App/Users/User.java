@@ -13,6 +13,10 @@ public class User {
         userBalanceSheet = new UserBalanceSheet();
     }
 
+    public UserBalanceSheet getUserBalanceSheet(){
+        return userBalanceSheet;
+    }
+
 
 
 
