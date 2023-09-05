@@ -27,6 +27,7 @@ public class TicTacToeGame {
          players.add(player2);
 
          board = new Board(3);
+         this.playGame();
     }
 
     public void playGame() {

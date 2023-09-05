@@ -7,8 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="BuilderPattern" />
-        <module name="CompositePattern" />
         <module name="SplitWise" />
+        <module name="ParkingLotV2LLD" />
+        <module name="Logger" />
+        <module name="CompositePattern" />
       </profile>
     </annotationProcessing>
   </component>
