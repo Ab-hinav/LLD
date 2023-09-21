@@ -6,12 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="TicketTransition" />
-        <module name="BuilderPattern" />
         <module name="SplitWise" />
         <module name="ParkingLotV2LLD" />
-        <module name="Logger" />
+        <module name="HashMapInternal" />
         <module name="CompositePattern" />
+        <module name="TicketTransition" />
+        <module name="BuilderPattern" />
+        <module name="Logger" />
       </profile>
     </annotationProcessing>
   </component>
