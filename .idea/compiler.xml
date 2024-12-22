@@ -13,6 +13,7 @@
         <module name="TicketTransition" />
         <module name="BuilderPattern" />
         <module name="Logger" />
+        <module name="Cricbuzz" />
       </profile>
     </annotationProcessing>
   </component>
